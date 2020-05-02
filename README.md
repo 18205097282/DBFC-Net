@@ -21,18 +21,18 @@
 Please visit this [dataset](http://59.108.48.34/tiki/FGCrossNet/).
 
 ## 2. Download trained model
-The trained models of our DBFC-Net framework can be downloaded from  [Baidu Cloud](https://pan.baidu.com/s/14_XWs5tR53KKG2hUHKadFQ).
+The trained models of our DBFC-Net framework can be downloaded from (Extraction code 1u1f) [Baidu Cloud](https://pan.baidu.com/s/14_XWs5tR53KKG2hUHKadFQ).
 
 ## 3. Prepare audio data
 python audio.py
 
 
 ## 4. Training
-sh train.sh
+python train.py
 
 
 ## 5. Testing
-sh test.sh
+python test.py
 
 
 # Citing
