@@ -35,15 +35,5 @@ python train.py
 python test.py
 
 
-# Citing
-```
-@inproceedings{he2019fine,
-    Author = {Xiangteng He, Yuxin Peng, Liu Xie},
-    Title = {A New Benchmark and Approach for Fine-grained Cross-media Retrieval},
-    Booktitle = {Proc. of ACM International Conference on Multimedia (ACM MM)},
-    Year = {2019}
-} 
-```
-
 # Contributing
-For any questions, feel free to open an issue or contact us. ([hexiangteng@pku.edu.cn]())
+For any questions, feel free to open an issue or contact us. ([gyd857964845@outlook.com]())
