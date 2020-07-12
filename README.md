@@ -7,14 +7,15 @@ Network Architecture
 ---
 ![Alt text](https://github.com/18205097282/DBFC-Net/blob/master/ScreenShots/1.png)
 
-Introduction
+Result
 ---
 - The MAP scores on bi-modality fine-grained cross-media retrieval for DBFCNet and the baselines. 
 ![Alt text](https://github.com/18205097282/DBFC-Net/blob/master/ScreenShots/2.png)
 - The MAP scores of our cosine+ method compared with the cosine similarity. 
 ![Alt text](https://github.com/18205097282/DBFC-Net/blob/master/ScreenShots/4.png)
 
-How to use
+
+Installation
 ---
 
  ```
@@ -28,15 +29,21 @@ Please visit this [dataset](http://59.108.48.34/tiki/FGCrossNet/).
 - Demo model
 The trained models of our DBFC-Net framework can be downloaded from (Extraction code 1u1f) [Baidu Cloud](https://pan.baidu.com/s/14_XWs5tR53KKG2hUHKadFQ).
 
+How to use
+---
+The code is currently tested only on GPU.
 - Source Code
-  - Prepare audio data
-   python audio.py
+   Prepare audio data
+    ```
+    python audio.py
+    ```
 
+  Training
+   ```
+   python train.py
+   ```
 
-  - Training
-python train.py
-
-
-  -Testing
-python test.py
-
+  Testing
+   ```
+   python test.py
+   ```
