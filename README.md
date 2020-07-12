@@ -38,9 +38,9 @@ The code is currently tested only on GPU.
         >* modify ```model_path``` to the path where you want to save your parameters of networks.
         >*  modify ```lr in params``` to ```0.001```, ```momentum in paramss```  to ```0.9```.  
         >*  modify ```step_siz in StepLR``` to ```5```, ```gammam in StepLR```  to ```0.8```.    
-      ```
-   python main.py
-   ```
+       ```
+       python main.py
+       ```
 
 * **Testing**  
      * If you just want to do a quick test on the model and check the final retrieval performance, please follow the subsequent steps.
