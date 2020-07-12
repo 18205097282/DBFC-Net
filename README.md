@@ -5,7 +5,7 @@ Datasets and source code for our paper **DBFC-Net: A Uniform Framework for Fine-
 
 Network Architecture
 ---
-![Alt text](https://github.com/18205097282/DBFC-Net/blob/master/ScreenShots/1.png)
+![Alt text](https://github.com/18205097282/DBFC-Net/blob/master/ScreenShots/5.png)
 
 
 Installation
