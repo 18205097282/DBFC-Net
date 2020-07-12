@@ -28,6 +28,7 @@ The code is currently tested only on GPU.
 - Source Code
 
    Prepare audio data
+   * Put the audio dataset to the ```audio_dataset``` folder.
     ```
     python audio.py
     ```
@@ -37,11 +38,15 @@ The code is currently tested only on GPU.
    * In ```main.py```  
      >* modify ```model_path``` to the path where you want to save your parameters of networks.
      >*  modify ```lr in params``` to ```0.001```, ```momentum in paramss```  to ```0.9```.  
-     >*  modify ```step_siz in StepLR``` to ```5```, ```gammam in StepLR```  to ```0.8```.  
-   ```python main.py```
+     >*  modify ```step_siz in StepLR``` to ```5```, ```gammam in StepLR```  to ```0.8```.    
+   ```
+   python main.py
+   ```
 
   Testing
      * If you just want to do a quick test on the model and check the final retrieval performance, please follow the subsequent steps.
      Download dataset to the ```dataset``` folder.
      * Download the trained models of our work  and put it to the  ```models``` folder.
-   ``` python test.py```
+   ``` 
+   python test.py
+   ```
