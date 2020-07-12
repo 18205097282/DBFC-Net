@@ -36,4 +36,4 @@ python test.py
 
 
 # Contributing
-For any questions, feel free to open an issue or contact us. ([gyd857964845@outlook.com]())
+For any questions, feel free to open an issue or contact us. 
