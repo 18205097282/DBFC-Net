@@ -1,6 +1,6 @@
 Introduction
 ---
-Datasets and source code for our paper **DBFC-Net: Salvage DBFC-Net: A Uniform Framework for Fine-grained Cross-media Retrieval**
+Datasets and source code for our paper **DBFC-Net: A Uniform Framework for Fine-grained Cross-media Retrieval**
 
 
 Network Architecture
