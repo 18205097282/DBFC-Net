@@ -34,7 +34,7 @@ The code is currently tested only on GPU.
 
   * **Training**  
       * Download dataset to the ```dataset``` folder.
-      * In ```main.py```  
+      * In ```main.py```  .
         >* modify ```model_path``` to the path where you want to save your parameters of networks.
         >*  modify ```lr in params``` to ```0.001```, ```momentum in paramss```  to ```0.9```.  
         >*  modify ```step_siz in StepLR``` to ```5```, ```gammam in StepLR```  to ```0.8```.    
