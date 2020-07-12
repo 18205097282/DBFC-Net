@@ -34,6 +34,3 @@ python train.py
 ## 5. Testing
 python test.py
 
-
-# Contributing
-For any questions, feel free to open an issue or contact us. 
