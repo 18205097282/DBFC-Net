@@ -25,15 +25,14 @@ The trained models of our DBFC-Net framework can be downloaded from (Extraction 
 How to use
 ---
 The code is currently tested only on GPU.
-- Source Code
 
-   Prepare audio data
+   * **Prepare audio data**  
    * Put the audio dataset to the ```audio_dataset``` folder.
     ```
     python audio.py
     ```
 
-  Training
+  * **Training**  
    * Download dataset to the ```dataset``` folder.
    * In ```main.py```  
      >* modify ```model_path``` to the path where you want to save your parameters of networks.
@@ -43,7 +42,7 @@ The code is currently tested only on GPU.
    python main.py
    ```
 
-  Testing
+* **Testing**  
      * If you just want to do a quick test on the model and check the final retrieval performance, please follow the subsequent steps.
      Download dataset to the ```dataset``` folder.
      * Download the trained models of our work  and put it to the  ```models``` folder.
